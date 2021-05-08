@@ -1,0 +1,21 @@
+{
+  "name": "@kalkan-yunus/js-helpers",
+  "version": "1.0.5",
+  "description": "",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "./node_modules/typescript/bin/tsc"
+  },
+  "keywords": [
+    "react-native",
+    "react",
+    "javascript",
+    "typescript"
+  ],
+  "author": "Yunus Kalkan",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.2.4"
+  }
+}
